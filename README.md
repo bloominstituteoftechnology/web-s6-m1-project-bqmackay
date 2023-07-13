@@ -12,7 +12,7 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 
 ### Description
 
-This project includes a `frontend/components` folder containing several React components. In their current form these components are stateless and display hard-coded information only. You will make the app interactive by going into each component, adding state and implementing event handlers and helper functions to allow the users of the app to update state by interacting with the page.
+This project includes a `frontend/components` folder containing several React components. Currently, these components are stateless and display hard-coded information only. You will make the app interactive by going into each component, adding state, and implementing event handlers and helper functions to allow the app's users to update state by interacting with the page.
 
 ## Instructions
 
@@ -24,7 +24,7 @@ This project includes a `frontend/components` folder containing several React co
 - [ ] Start up the app using `npm run dev`.
 - [ ] Push commits: `git push origin main`.
 
-### Task 2: Minimum Viable Product
+### Task 2: Minimum Viable Product (MVP)
 
 1. Each component has the required slices of state.
 2. Each component's event handlers allow the user of the app to update state.
